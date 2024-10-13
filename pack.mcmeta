@@ -5,7 +5,7 @@
       "min_inclusive": 15,
       "max_inclusive": 99
     },
-    "description": "Fortunate Ancient Debris by notblue"
+    "description": "Fortune works on ancient debris"
   },
   "overlays": {
     "entries": [
@@ -28,7 +28,7 @@
           "min_inclusive": 49,
           "max_inclusive": 99
         },
-        "directory": "overlay_new"
+        "directory": "overlay_1.21.2"
       }
     ]
 }
